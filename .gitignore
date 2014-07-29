@@ -8,3 +8,7 @@ setup.sh
 workspace/
 .metadata/
 RemoteSystemsTempFiles/
+
+# IntelliJ IDEA
+.idea/
+*.iml
