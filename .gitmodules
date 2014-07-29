@@ -3,3 +3,5 @@
   url = https://github.com/engagepoint/eclipse.platform.ua.git
   branch = engagepoint
   on-pull = checkout,pull
+  on-checkout = checkout
+  on-commit = commit
