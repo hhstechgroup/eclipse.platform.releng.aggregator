@@ -1,4 +1,4 @@
 [submodule "eclipse.platform.ua"]
   path = eclipse.platform.ua
-  url = ../eclipse.platform.ua
-  branch = engahepoint/help
+  url = ../eclipse.platform.ua.git
+  branch = engagepoint
