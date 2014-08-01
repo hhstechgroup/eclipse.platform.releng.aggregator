@@ -23,4 +23,5 @@
         <module>eclipse-platform-parent</module>
         <module>eclipse.platform.ua</module>
     </modules>
+
 </project>
