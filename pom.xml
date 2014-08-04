@@ -22,6 +22,7 @@
     <modules>
         <module>eclipse-platform-parent</module>
         <module>eclipse.platform.ua</module>
+        <module>rt.equinox.bundles</module>
     </modules>
 
 </project>
