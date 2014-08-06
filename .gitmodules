@@ -2,3 +2,7 @@
 	path = rt.equinox.bundles
 	url = https://github.com/engagepoint/rt.equinox.bundles.git
 	branch = engagepoint/dev
+[submodule "eclipse.platform.ua"]
+	path = eclipse.platform.ua
+	url = https://github.com/engagepoint/eclipse.platform.ua.git
+	branch = engagepoint/dev
